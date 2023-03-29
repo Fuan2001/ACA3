@@ -1,0 +1,46 @@
+<!doctype html>
+
+<html>
+<link rel="stylesheet" href="C:\Users\Zoom\Desktop\ACA3/css.css">
+<head>
+<title>EJERCICIO 3</title>
+</head>
+
+<body>
+
+<div class="text1">
+
+<p> En el momento en que entiendo verdaderamente a mi enemigo, en el momento en que le <br>
+entiendo lo suficiente bien como para derrotarle, entonces, en ese preciso <br>
+instante, tambien le quiero. Creo que es imposible entender realmente a alguien, saber <br>
+lo que quiere, saber lo que cree, y no amarle como se ama a si mismo. Y entonces, en <br>
+ese preciso moment, cuando le quiero ...  </p>
+
+<img class="imagen" src="C:\Users\Zoom\Desktop/ACA3/Orson-Scott-Card.jpg" style= "width:100px" >
+
+</div>
+
+
+<p><center> - Orson Scott Card - </center></p>
+
+<div class="text2">
+
+<img class="imagen2" src="C:\Users\Zoom\Desktop/ACA3/img2.rtve.jpg" style= "width:100px">
+
+<p align="justify"> Si todo lo tomas personal, viviras ofendido la mayor parte de tu vida, recuerda<br>
+que las personas no te hacen cosas: las personas hacen cosas y tu decides si te<br>
+afecta o no: </p>
+</div>
+
+<p align="center"> - El Principito - </p>
+
+<div class="compartir">
+<img id="8" src="C:\Users\Zoom\Desktop/Captura.JPG">
+</div>
+</body>
+
+
+<footer>
+</footer>
+
+</html>
