@@ -1,0 +1,66 @@
+<!doctype html>
+
+<html>
+<head>
+<h1>PHP</H1>
+</head>
+
+<body>
+<ul>
+<li><b>¿LISTE LAS HERRAMIENTAS INICIALES SE REQUIEREN PARA TRABJAR PHP?</b></li>
+<p>
+<ol>
+<li>Un lector de lenguajes de programacion</li>
+<li>Un paquete de software libre</li>
+<li>Un navegador para funcionar lo configurado</li>
+</ol></p>
+
+<li><b>¿QUE ES PHP?</b></li>
+<p>El termino PHP hace referencia a un lenguaje de programación de código abierto orientado<br> 
+principalmente al desarrollo web, claramente se puede utilizar para diferentes fines.</p>
+
+<li> <b>¿QUE ES UN SERVIDOR PHP?</b></li>
+<p> Un servidor PHP, es el encargado de interpretar o explicar el código PHP de una aplicación<br> 
+o programa, ocasionando un resultado de vista HTML, el cual será representado por el servidor web</p>
+
+<li> <b>¿TIPOS DE SERVIDORES PHP?</b></li>
+<p>En cuanto los servidores PHP, existen varios tipos o modelos los cuales se presentan a continuacion: <br>
+<ul>
+<li> PHP-FPM </li>
+<li> PHP-PM </li>
+<li> HHVM </li>
+</ul>
+
+</p>
+
+<li><b> COMO INSTALAR UN SERVIDOR PHP </b></li>
+<p>Inicialmente debemos descargar el paquete PHP donde lo mas recomendable es en la pagina oficial de PHP.<br>
+Esto descargara un archivo comprimido, este lo deberas extraer en la ubicacion C:\php. <br>
+Ahora nos dirijimos a la barra de búsqueda de Windows, donde solo escribimos la palabra clave <b> environment </b> <br>
+y eligimos <b> Edit the system environment variables </b>. En seguida vamos a la sección <br>
+<b> Advanced > Environment Variables </b> y editamos la variable de entorno PATH y la añadimos a <b>C:\php</b> y listo!!.
+
+</p>
+<li><b> PASOS PARA ESCRIBIR UN ”HOLA MUNDO”</b></li>
+<p>Para poder escribir un Hola mundo en PHP y que claramente funcione, debemos de realizar las funciones explicadas anteriormente <br>
+como punto principal. En seguida ya estando en el area para insertar codigo, escribiremos la estructura basica de PHP que es la <br>
+siguiente: <br><br>
+
+"< ?php <br><br>
+echo 'hello World!'; <br><br>
+?>" </p>
+<br>
+Ya realizado lo anterior solo debemos dar click derecho en el area de codigo y seleccionamos donde dice <b>"PHP SERVER: SERVE PROJECT"</b> <br>
+y automicamente se abrira una pestaña web indicando el <b> HOLA MUNDO </b>
+
+</ul>
+</body>
+
+<footer>
+</footer>
+
+
+
+
+
+</html>
