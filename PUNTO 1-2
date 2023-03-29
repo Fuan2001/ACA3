@@ -1,0 +1,82 @@
+<!doctype html>
+
+<html>
+<head>
+<title>EJERCICIOS ACA 2</title>
+</head>
+
+<body>
+<h1>EJERCICIOS ACA 2</h1>
+
+<ol>
+<li><a href="C:\Users\Zoom\Desktop\HTML\html u/PAGINA 1-2.html">Ejercicio1</a></li>
+<li><a href="C:\Users\Zoom\Desktop\HTML\html u/PAGINA 1-2.html">Ejercicio2</a></li>
+<li><a href="C:\Users\Zoom\Desktop\HTML\html u/PAGINA 3.html">Ejercicio3</a></li>
+<li><a href="C:\Users\Zoom\Desktop\HTML\html u/PAGINA 4.html">Ejercicio4</a></li>
+<li><a href="C:\Users\Zoom\Desktop\HTML\html u/pagina5.html">Ejercicio5</a></li>
+<li><a href="C:\Users\Zoom\Desktop\HTML\html u/PAGINA6.HTML">Ejercicio6</a></li>
+</ol>
+
+<h1>FORMULARIO ACA 2</h1>
+<form>
+<FIELDSET>
+<LEGEND>GUARDERIA DE ANIMALES</LEGEND> 
+<label for="NOMANI">NOMBRE DEL ANIMAL</label>
+<INPUT TYPE="TEXT">
+<BR>
+<BR>
+<label for="NORES">NOMBRE DEL RESPONSABLE</label>
+<INPUT TYPE="TEXT">
+<BR>
+<BR>
+<label>CUENTANOS PORQUE DEJAS TU MASCOTA A NUESTRO CUIDADO: </label><BR>
+<TEXTAREA rows="8" cols="50"></textarea>
+<BR>
+<BUTTON>ENVIAR</BUTTON>
+<BUTTON>BORRAR</BUTTON>
+</FIELDSET> 
+</form>
+<BR>
+<FORM>
+<FIELDSET>
+<LEGEND>GENERO: </LEGEND> 
+<input type="radio" name="1">Femenino
+<input type="radio" name="1">Masculino
+</FIELDSET> 
+</FORM>
+<BR>
+<FORM>
+<FIELDSET>
+<label>Usuario: </label>
+<INPUT TYPE="TEXT"><BR><BR>
+<label>Contraseña: </label>
+<INPUT TYPE="password"><BR><BR>
+<BUTTON>ENVIAR</BUTTON>
+<BUTTON>BORRAR</BUTTON>
+</FIELDSET> 
+</FORM>
+<BR>
+<FORM>
+<FIELDSET>
+<input type="file"><BR><BR>
+<BUTTON>ENVIAR</BUTTON>
+<BUTTON>BORRAR</BUTTON>
+</FIELDSET> 
+</FORM>
+<BR>
+<FORM>
+<FIELDSET>
+<label>CONSOLAS: </label><BR>
+<input type="checkbox" name="2">XBOX
+<input type="checkbox" name="2">PLAYSTATION
+<input type="checkbox" name="2">NINTENDO
+</FIELDSET> 
+</FORM>
+</body>
+
+
+<footer>
+</footer>
+
+
+</html>
